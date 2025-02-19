@@ -1,0 +1,11 @@
+{
+  "name": "bitcoinindicator",
+  "version": "1.0.0",
+  "description": "This is a learning repository how to use Tensorflowjs to predict if Bitcoin is bullish or bearish",
+  "main": "CreateAIModel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
